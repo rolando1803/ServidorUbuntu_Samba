@@ -8,6 +8,6 @@
 ![image](https://github.com/rolando1803/ServidorUbuntu_Samba/assets/55965131/273fd674-4428-40d3-a3d7-36abe4ac93b1)
 ![image](https://github.com/rolando1803/ServidorUbuntu_Samba/assets/55965131/6b1ee565-9230-4894-9dc9-2e66d31574bc)
 ![image](https://github.com/rolando1803/ServidorUbuntu_Samba/assets/55965131/fb22dc83-b433-41b7-8955-eec660116a12)
-![image](https://github.com/rolando1803/ServidorUbuntu_Samba/assets/55965131/bf79da84-548b-4ad3-ac9c-4992e1e282d1)
-![image](https://github.com/rolando1803/ServidorUbuntu_Samba/assets/55965131/33de061a-8602-4e7e-a1ac-792670590c97)
 ![image](https://github.com/rolando1803/ServidorUbuntu_Samba/assets/55965131/5fca2fc8-3eec-496f-a71b-6235ab93afe3)
+![image](https://github.com/rolando1803/ServidorUbuntu_Samba/assets/55965131/33de061a-8602-4e7e-a1ac-792670590c97)
+
